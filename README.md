@@ -7,7 +7,7 @@ SchemeSentinel is a full-stack fraud detection system designed to identify suspi
 
 This project was developed as part of a hackathon to demonstrate how technology can improve transparency and prevent misuse of public funds.
 
----
+...
 
 # 🚨 Problem Statement
 
@@ -25,7 +25,7 @@ These fraudulent activities result in:
 - Resource misallocation
 - Reduced trust in public systems
 
-SchemeSentinel addresses these issues by detecting suspicious applications and identifying coordinated fraud patterns.
+SchemeSentinel addresses these issues by detecting suspicious applications and identifying coordinated fraud patterns..
 
 ---
 
