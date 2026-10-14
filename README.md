@@ -5,7 +5,7 @@ Smart Fraud Detection System for Government Welfare Schemes
 
 SchemeSentinel is a full-stack fraud detection system designed to identify suspicious activities in Indian government welfare schemes using rule-based risk scoring and pattern detection.
 
-This project was developed as part of a hackathon to demonstrate how technology can improve transparency and prevent misuse of public funds.
+This project was developed as part of a hackathon to demonstrate how technology can improve transparency and prevent misuse of public funds...
 
 
 
